@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
 
-[![My Skills](https://skillicons.dev/icons?i=java,figma,azure&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
 
 #### Connect with me
 ![https://www.instagram.com/ayusaniatuss/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/ayu-saniatus-sholihah-334972272/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.kaggle.com/ayusaniatussholihah](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
