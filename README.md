@@ -6,6 +6,7 @@
 -  Hi, I’m ayusaniatuss
 - 🎓 I’m currently studying at Universitas Sebelas Maret, majoring in Informatics 
 - 👀 I’m very interested in Machine Learning and website development
+- 👀 I'm passionate about documenting innovations and research findings through scientific writing 
 - 🌱 I’m currently learning programming algorithms and the basics of Machine Learning
 - 🤝 Open to collaborate on web-based projects that involve AI or smart features
 
