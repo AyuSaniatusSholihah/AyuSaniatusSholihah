@@ -7,8 +7,7 @@
 - 🎓 I’m currently studying at Universitas Sebelas Maret, majoring in Informatics 
 - 👀 I’m very interested in Machine Learning and website development
 - 👀 I'm passionate about documenting innovations and research findings through scientific writing 
-- 🌱 I’m currently learning programming algorithms and the basics of Machine Learning
-- 🤝 Open to collaborate on web-based projects that involve AI or smart features
+- 🌱 I’m currently learning programming algorithms and the web dev 
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Mornings are my peak productivity time for learning.
@@ -19,7 +18,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
 
