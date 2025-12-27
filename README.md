@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning programming algorithms and the web dev 
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Mornings are my peak productivity time for learning.
+- ⚡ Fun fact: Mornings are my peak productivity time for learning
 
 #### I’m learning
 
